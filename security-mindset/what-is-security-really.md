@@ -2,7 +2,7 @@
 
 Security doesn't mean %100 assurance.
 
-**What is security?**
+## What is security?
 
 Security means managing risk to an acceptable level
 given limited time, money and complexity.
