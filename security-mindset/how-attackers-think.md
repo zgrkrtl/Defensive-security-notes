@@ -1,4 +1,4 @@
-# How Attackers Think
+## How Attackers Think
 
 Instead of thinking like a systems engineer
 and start seeing things as an attacker helps improve the security.
@@ -6,7 +6,7 @@ and start seeing things as an attacker helps improve the security.
 Attackers are not chaotic. They only aim exploits
 they can benefit from.
 
-# 1. The Attack Lifecycle
+## 1. The Attack Lifecycle
 
 Most attacks follow a progression, even if the techniques differ.
 
@@ -69,7 +69,7 @@ The end goal:
 - Sabotage
 - Financial theft
 
-# 2. The Cost–Benefit Mindset
+## 2. The Cost–Benefit Mindset
 
 Attackers are rational
 
@@ -90,7 +90,7 @@ It needs to be expensive to break.
 Raising attacker cost is a core defensive strategy.
 
 
-# 3. Automation vs Targeted Attacks
+## 3. Automation vs Targeted Attacks
 
 Not all attacks are personal.
 
@@ -125,7 +125,7 @@ These attacks:
 Defending against automated attacks is different from defending against determined adversaries.
 
 
-# 4. Attackers Exploit Humans First
+## 4. Hackers Exploit Humans First
 
 Social engineering often succeeds because
 Humans are predictable.
@@ -138,7 +138,7 @@ Humans are predictable.
 Attackers search for the weakest link.
 Often, it is not system itself, its part of the system that is human.
 
-# 5. Attackers Think in Paths
+## 5. Hackers Think in Paths
 
 Defenders think:
 "Is this server secure?"
@@ -154,7 +154,7 @@ Weak password + No MFA + No monitoring = breach.
 
 Attackers look for chains.
 
-# 6. Assume Breach Mentality
+## 6. Assume Breach
 
 Professional attackers assume:
 
