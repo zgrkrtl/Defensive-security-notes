@@ -1,5 +1,10 @@
 # Wireshark Basics (tshark CLI)
 
+install wireshark
+
+->sudo apt-get install wireshark -y
+->sudo wireshark
+
 CLI Equivalent Using tshark
 
 Capture traffic on interface

@@ -20,7 +20,7 @@ Attempt OS detection
 nmap -O [IP_ADDR]
 
 
-Aggressive scan (version + OS + scripts)
+Aggressive scan
 nmap -A [IP_ADDR]
 
 
